@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Ridie-Kings
+- 👀 I’m interested in html/css.
+- 🌱 I’m currently learning js.
+- 💞️ I’m looking to collaborate on qb-core scripts.
+- 📫 How to reach me? Discord -> RDK#5052

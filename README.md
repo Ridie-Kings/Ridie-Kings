@@ -38,4 +38,4 @@
 
 <h3 align="center">Technologies:</h3>
 
-<p align="center">    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vue,html,css,tailwind,mongodb,mysql,nodejs,express,fastapi,postgres,py,firebase,laravel,figma,xd,git,github,php,wordpress,lua,vscode,vite,svg,ps,ai,pr&perline=10" />
+<p align="center">    <img src="https://skillicons.dev/icons?i=js,ts,react,redux,vue,html,css,tailwind,mongodb,mysql,nodejs,express,fastapi,postgres,figma,git,github,lua,vscode,vite&perline=10" />

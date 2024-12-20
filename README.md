@@ -21,7 +21,7 @@ I thrive in fast-paced environments, delivering high-quality code and collaborat
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new developer platform using React and Nest.js**
+- 💼 I'm currently working on: **💻 Developing a time management application for students using Next.js and NestJS.**
 - 🌱 I'm currently learning: **📚 Exploring Zustand**
 - 💬 Ask me about: **💡 JavaScript, React, Node.js, MongoDB, and RESTful APIs**
 - 📂 Portfolio: **<a href="💻 fransalvatierra.com" target="_blank">💻 fransalvatierra.com</a>**

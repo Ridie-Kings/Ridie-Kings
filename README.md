@@ -33,6 +33,6 @@ I thrive in fast-paced environments, delivering high-quality code and collaborat
 **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=react" alt="GitHub streak Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ridie-kings&show_icons=true&theme=react" alt="GitHub streak Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridie-Kings&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
 </p>
